@@ -1,0 +1,15 @@
+{
+    "name": "openpesa/pesa-demo",
+    "description": "Simple SDK usage",
+    "type": "project",
+    "require": {
+        "openpesa/pesa": "^0.0.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alpha Olomi",
+            "email": "alphaolomi@gmail.com"
+        }
+    ]
+}
